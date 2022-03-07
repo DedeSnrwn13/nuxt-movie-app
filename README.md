@@ -1,5 +1,7 @@
 # movieapp
 
+Preview: https://nuxtjs-movieapp.herokuapp.com/
+
 ## Build Setup
 
 ```bash
